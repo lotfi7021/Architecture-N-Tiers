@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Projet.BLL.Contract\Projet.BLL.Contract.csproj" />
+    <ProjectReference Include="..\Projet.BLL\Projet.BLL.csproj" />
+    <ProjectReference Include="..\Projet.Entities\Projet.Entities.csproj" />
+    <ProjectReference Include="..\Projet.ViewModel\Projet.ViewModel.csproj" />
+  </ItemGroup>
+
+</Project>

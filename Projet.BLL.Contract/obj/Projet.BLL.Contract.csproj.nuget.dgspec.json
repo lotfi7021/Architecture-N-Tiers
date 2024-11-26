@@ -1,0 +1,51 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Administrateur.TN-FYSYTR\\Source\\Repos\\ArchitectureNTiers\\Projet.BLL.Contract\\Projet.BLL.Contract.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Administrateur.TN-FYSYTR\\Source\\Repos\\ArchitectureNTiers\\Projet.BLL.Contract\\Projet.BLL.Contract.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Administrateur.TN-FYSYTR\\Source\\Repos\\ArchitectureNTiers\\Projet.BLL.Contract\\Projet.BLL.Contract.csproj",
+        "projectName": "Projet.BLL.Contract",
+        "projectPath": "C:\\Users\\Administrateur.TN-FYSYTR\\Source\\Repos\\ArchitectureNTiers\\Projet.BLL.Contract\\Projet.BLL.Contract.csproj",
+        "packagesPath": "C:\\Users\\Administrateur.TN-FYSYTR\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Administrateur.TN-FYSYTR\\Source\\Repos\\ArchitectureNTiers\\Projet.BLL.Contract\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Administrateur.TN-FYSYTR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net70": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net70": {
+          "targetAlias": "net7.0"
+        }
+      }
+    }
+  }
+}
