@@ -1,89 +1,161 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrateur.TN-FYSYTR\\Source\\Repos\\ArchitectureNTiers\\Projet.BLL\\Projet.BLL.csproj": {}
+    "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.BLL\\Projet.BLL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrateur.TN-FYSYTR\\Source\\Repos\\ArchitectureNTiers\\Projet.BLL.Contract\\Projet.BLL.Contract.csproj": {
+    "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.BLL.Contract\\Projet.BLL.Contract.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrateur.TN-FYSYTR\\Source\\Repos\\ArchitectureNTiers\\Projet.BLL.Contract\\Projet.BLL.Contract.csproj",
+        "projectUniqueName": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.BLL.Contract\\Projet.BLL.Contract.csproj",
         "projectName": "Projet.BLL.Contract",
-        "projectPath": "C:\\Users\\Administrateur.TN-FYSYTR\\Source\\Repos\\ArchitectureNTiers\\Projet.BLL.Contract\\Projet.BLL.Contract.csproj",
-        "packagesPath": "C:\\Users\\Administrateur.TN-FYSYTR\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrateur.TN-FYSYTR\\Source\\Repos\\ArchitectureNTiers\\Projet.BLL.Contract\\obj\\",
+        "projectPath": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.BLL.Contract\\Projet.BLL.Contract.csproj",
+        "packagesPath": "C:\\Users\\makij\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.BLL.Contract\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Administrateur.TN-FYSYTR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\makij\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net7.0"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net70": {
-            "targetAlias": "net7.0",
-            "projectReferences": {}
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.Entities\\Projet.Entities.csproj": {
+                "projectPath": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.Entities\\Projet.Entities.csproj"
+              },
+              "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.Enums\\Projet.Enums.csproj": {
+                "projectPath": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.Enums\\Projet.Enums.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
-        "net70": {
-          "targetAlias": "net7.0"
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            },
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[8.8.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[8.15.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[18.0.1, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.72, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.9.3, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Administrateur.TN-FYSYTR\\Source\\Repos\\ArchitectureNTiers\\Projet.BLL\\Projet.BLL.csproj": {
+    "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.BLL\\Projet.BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrateur.TN-FYSYTR\\Source\\Repos\\ArchitectureNTiers\\Projet.BLL\\Projet.BLL.csproj",
+        "projectUniqueName": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.BLL\\Projet.BLL.csproj",
         "projectName": "Projet.BLL",
-        "projectPath": "C:\\Users\\Administrateur.TN-FYSYTR\\Source\\Repos\\ArchitectureNTiers\\Projet.BLL\\Projet.BLL.csproj",
-        "packagesPath": "C:\\Users\\Administrateur.TN-FYSYTR\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrateur.TN-FYSYTR\\Source\\Repos\\ArchitectureNTiers\\Projet.BLL\\obj\\",
+        "projectPath": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.BLL\\Projet.BLL.csproj",
+        "packagesPath": "C:\\Users\\makij\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.BLL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Administrateur.TN-FYSYTR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\makij\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net7.0"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net70": {
-            "targetAlias": "net7.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Administrateur.TN-FYSYTR\\Source\\Repos\\ArchitectureNTiers\\Projet.BLL.Contract\\Projet.BLL.Contract.csproj": {
-                "projectPath": "C:\\Users\\Administrateur.TN-FYSYTR\\Source\\Repos\\ArchitectureNTiers\\Projet.BLL.Contract\\Projet.BLL.Contract.csproj"
+              "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.BLL.Contract\\Projet.BLL.Contract.csproj": {
+                "projectPath": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.BLL.Contract\\Projet.BLL.Contract.csproj"
               },
-              "C:\\Users\\Administrateur.TN-FYSYTR\\Source\\Repos\\ArchitectureNTiers\\Projet.DAL.Contracts\\Projet.DAL.Contracts.csproj": {
-                "projectPath": "C:\\Users\\Administrateur.TN-FYSYTR\\Source\\Repos\\ArchitectureNTiers\\Projet.DAL.Contracts\\Projet.DAL.Contracts.csproj"
+              "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.DAL.Contracts\\Projet.DAL.Contracts.csproj": {
+                "projectPath": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.DAL.Contracts\\Projet.DAL.Contracts.csproj"
               },
-              "C:\\Users\\Administrateur.TN-FYSYTR\\Source\\Repos\\ArchitectureNTiers\\Projet.DAL\\Projet.DAL.csproj": {
-                "projectPath": "C:\\Users\\Administrateur.TN-FYSYTR\\Source\\Repos\\ArchitectureNTiers\\Projet.DAL\\Projet.DAL.csproj"
+              "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.DAL\\Projet.DAL.csproj": {
+                "projectPath": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.DAL\\Projet.DAL.csproj"
+              },
+              "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.Entities\\Projet.Entities.csproj": {
+                "projectPath": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.Entities\\Projet.Entities.csproj"
+              },
+              "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.Enums\\Projet.Enums.csproj": {
+                "projectPath": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.Enums\\Projet.Enums.csproj"
               }
             }
           }
@@ -92,45 +164,104 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
-        "net70": {
-          "targetAlias": "net7.0"
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            },
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[8.8.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[8.15.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[18.0.1, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.72, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.9.3, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Administrateur.TN-FYSYTR\\Source\\Repos\\ArchitectureNTiers\\Projet.Context\\Projet.Context.csproj": {
+    "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.Context\\Projet.Context.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrateur.TN-FYSYTR\\Source\\Repos\\ArchitectureNTiers\\Projet.Context\\Projet.Context.csproj",
+        "projectUniqueName": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.Context\\Projet.Context.csproj",
         "projectName": "Projet.Context",
-        "projectPath": "C:\\Users\\Administrateur.TN-FYSYTR\\Source\\Repos\\ArchitectureNTiers\\Projet.Context\\Projet.Context.csproj",
-        "packagesPath": "C:\\Users\\Administrateur.TN-FYSYTR\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrateur.TN-FYSYTR\\Source\\Repos\\ArchitectureNTiers\\Projet.Context\\obj\\",
+        "projectPath": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.Context\\Projet.Context.csproj",
+        "packagesPath": "C:\\Users\\makij\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.Context\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Administrateur.TN-FYSYTR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\makij\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net7.0"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net70": {
-            "targetAlias": "net7.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Administrateur.TN-FYSYTR\\Source\\Repos\\ArchitectureNTiers\\Projet.Entities\\Projet.Entities.csproj": {
-                "projectPath": "C:\\Users\\Administrateur.TN-FYSYTR\\Source\\Repos\\ArchitectureNTiers\\Projet.Entities\\Projet.Entities.csproj"
+              "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.Entities\\Projet.Entities.csproj": {
+                "projectPath": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.Entities\\Projet.Entities.csproj"
               }
             }
           }
@@ -139,42 +270,111 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
-        "net70": {
-          "targetAlias": "net7.0"
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            },
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[8.8.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[8.15.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[18.0.1, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.72, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.9.3, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Administrateur.TN-FYSYTR\\Source\\Repos\\ArchitectureNTiers\\Projet.DAL.Contracts\\Projet.DAL.Contracts.csproj": {
+    "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.DAL.Contracts\\Projet.DAL.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrateur.TN-FYSYTR\\Source\\Repos\\ArchitectureNTiers\\Projet.DAL.Contracts\\Projet.DAL.Contracts.csproj",
+        "projectUniqueName": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.DAL.Contracts\\Projet.DAL.Contracts.csproj",
         "projectName": "Projet.DAL.Contracts",
-        "projectPath": "C:\\Users\\Administrateur.TN-FYSYTR\\Source\\Repos\\ArchitectureNTiers\\Projet.DAL.Contracts\\Projet.DAL.Contracts.csproj",
-        "packagesPath": "C:\\Users\\Administrateur.TN-FYSYTR\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrateur.TN-FYSYTR\\Source\\Repos\\ArchitectureNTiers\\Projet.DAL.Contracts\\obj\\",
+        "projectPath": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.DAL.Contracts\\Projet.DAL.Contracts.csproj",
+        "packagesPath": "C:\\Users\\makij\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.DAL.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Administrateur.TN-FYSYTR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\makij\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net7.0"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net70": {
-            "targetAlias": "net7.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -182,48 +382,107 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
-        "net70": {
-          "targetAlias": "net7.0"
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            },
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[8.8.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[8.15.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[18.0.1, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.72, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.9.3, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Administrateur.TN-FYSYTR\\Source\\Repos\\ArchitectureNTiers\\Projet.DAL\\Projet.DAL.csproj": {
+    "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.DAL\\Projet.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrateur.TN-FYSYTR\\Source\\Repos\\ArchitectureNTiers\\Projet.DAL\\Projet.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.DAL\\Projet.DAL.csproj",
         "projectName": "Projet.DAL",
-        "projectPath": "C:\\Users\\Administrateur.TN-FYSYTR\\Source\\Repos\\ArchitectureNTiers\\Projet.DAL\\Projet.DAL.csproj",
-        "packagesPath": "C:\\Users\\Administrateur.TN-FYSYTR\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrateur.TN-FYSYTR\\Source\\Repos\\ArchitectureNTiers\\Projet.DAL\\obj\\",
+        "projectPath": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.DAL\\Projet.DAL.csproj",
+        "packagesPath": "C:\\Users\\makij\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Administrateur.TN-FYSYTR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\makij\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net7.0"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net70": {
-            "targetAlias": "net7.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Administrateur.TN-FYSYTR\\Source\\Repos\\ArchitectureNTiers\\Projet.Context\\Projet.Context.csproj": {
-                "projectPath": "C:\\Users\\Administrateur.TN-FYSYTR\\Source\\Repos\\ArchitectureNTiers\\Projet.Context\\Projet.Context.csproj"
+              "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.Context\\Projet.Context.csproj": {
+                "projectPath": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.Context\\Projet.Context.csproj"
               },
-              "C:\\Users\\Administrateur.TN-FYSYTR\\Source\\Repos\\ArchitectureNTiers\\Projet.DAL.Contracts\\Projet.DAL.Contracts.csproj": {
-                "projectPath": "C:\\Users\\Administrateur.TN-FYSYTR\\Source\\Repos\\ArchitectureNTiers\\Projet.DAL.Contracts\\Projet.DAL.Contracts.csproj"
+              "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.DAL.Contracts\\Projet.DAL.Contracts.csproj": {
+                "projectPath": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.DAL.Contracts\\Projet.DAL.Contracts.csproj"
               }
             }
           }
@@ -232,42 +491,207 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
-        "net70": {
-          "targetAlias": "net7.0"
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            },
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[8.8.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[8.15.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[18.0.1, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.72, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.9.3, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Administrateur.TN-FYSYTR\\Source\\Repos\\ArchitectureNTiers\\Projet.Entities\\Projet.Entities.csproj": {
+    "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.Entities\\Projet.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrateur.TN-FYSYTR\\Source\\Repos\\ArchitectureNTiers\\Projet.Entities\\Projet.Entities.csproj",
+        "projectUniqueName": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.Entities\\Projet.Entities.csproj",
         "projectName": "Projet.Entities",
-        "projectPath": "C:\\Users\\Administrateur.TN-FYSYTR\\Source\\Repos\\ArchitectureNTiers\\Projet.Entities\\Projet.Entities.csproj",
-        "packagesPath": "C:\\Users\\Administrateur.TN-FYSYTR\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrateur.TN-FYSYTR\\Source\\Repos\\ArchitectureNTiers\\Projet.Entities\\obj\\",
+        "projectPath": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.Entities\\Projet.Entities.csproj",
+        "packagesPath": "C:\\Users\\makij\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Administrateur.TN-FYSYTR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\makij\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net7.0"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net70": {
-            "targetAlias": "net7.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.Enums\\Projet.Enums.csproj": {
+                "projectPath": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.Enums\\Projet.Enums.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            },
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[8.8.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[8.15.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[18.0.1, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.72, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.9.3, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.Enums\\Projet.Enums.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.Enums\\Projet.Enums.csproj",
+        "projectName": "Projet.Enums",
+        "projectPath": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.Enums\\Projet.Enums.csproj",
+        "packagesPath": "C:\\Users\\makij\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.Enums\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\makij\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -275,11 +699,70 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
-        "net70": {
-          "targetAlias": "net7.0"
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            },
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[8.8.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[8.15.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[18.0.1, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.72, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.9.3, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

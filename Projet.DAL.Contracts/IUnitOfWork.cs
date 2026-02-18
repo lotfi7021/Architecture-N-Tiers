@@ -1,13 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Projet.DAL.Contracts
+﻿namespace Projet.DAL.Contracts
 {
-    public interface IUnitOfWork
+    public interface IUnitOfWork : IDisposable
     {
-        IRepository GetRepository<T>() where T : class;
+        IRepository<T> Repository<T>() where T : class;
+        Task<int> SaveChangesAsync();
     }
 }

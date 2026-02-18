@@ -1,0 +1,12 @@
+C:\Users\makij\source\repos\Architecture-N-Tiers\Projet.DAL.Contracts\bin\Debug\net10.0\Projet.DAL.Contracts.deps.json
+C:\Users\makij\source\repos\Architecture-N-Tiers\Projet.DAL.Contracts\bin\Debug\net10.0\Projet.DAL.Contracts.dll
+C:\Users\makij\source\repos\Architecture-N-Tiers\Projet.DAL.Contracts\bin\Debug\net10.0\Projet.DAL.Contracts.pdb
+C:\Users\makij\source\repos\Architecture-N-Tiers\Projet.DAL.Contracts\obj\Debug\net10.0\Projet.DAL.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\makij\source\repos\Architecture-N-Tiers\Projet.DAL.Contracts\obj\Debug\net10.0\Projet.DAL.Contracts.AssemblyInfoInputs.cache
+C:\Users\makij\source\repos\Architecture-N-Tiers\Projet.DAL.Contracts\obj\Debug\net10.0\Projet.DAL.Contracts.AssemblyInfo.cs
+C:\Users\makij\source\repos\Architecture-N-Tiers\Projet.DAL.Contracts\obj\Debug\net10.0\Projet.DAL.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\makij\source\repos\Architecture-N-Tiers\Projet.DAL.Contracts\obj\Debug\net10.0\Projet.DAL.Contracts.sourcelink.json
+C:\Users\makij\source\repos\Architecture-N-Tiers\Projet.DAL.Contracts\obj\Debug\net10.0\Projet.DAL.Contracts.dll
+C:\Users\makij\source\repos\Architecture-N-Tiers\Projet.DAL.Contracts\obj\Debug\net10.0\refint\Projet.DAL.Contracts.dll
+C:\Users\makij\source\repos\Architecture-N-Tiers\Projet.DAL.Contracts\obj\Debug\net10.0\Projet.DAL.Contracts.pdb
+C:\Users\makij\source\repos\Architecture-N-Tiers\Projet.DAL.Contracts\obj\Debug\net10.0\ref\Projet.DAL.Contracts.dll

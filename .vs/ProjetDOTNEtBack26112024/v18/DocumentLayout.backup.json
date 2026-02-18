@@ -1,0 +1,1009 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0969DC51-6457-4474-97CF-00F72696F339}|Projet.BLL\\Projet.BLL.csproj|c:\\users\\makij\\source\\repos\\architecture-n-tiers-origin\\architecture-n-tiers\\projet.bll\\orderbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0969DC51-6457-4474-97CF-00F72696F339}|Projet.BLL\\Projet.BLL.csproj|solutionrelative:projet.bll\\orderbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0969DC51-6457-4474-97CF-00F72696F339}|Projet.BLL\\Projet.BLL.csproj|c:\\users\\makij\\source\\repos\\architecture-n-tiers-origin\\architecture-n-tiers\\projet.bll\\genericbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0969DC51-6457-4474-97CF-00F72696F339}|Projet.BLL\\Projet.BLL.csproj|solutionrelative:projet.bll\\genericbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AADF299-A36D-459A-86F3-00ADC08C8BC7}|API\\API.csproj|c:\\users\\makij\\source\\repos\\architecture-n-tiers-origin\\architecture-n-tiers\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AADF299-A36D-459A-86F3-00ADC08C8BC7}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B1AD55-A71C-477B-99DA-B7AD9D6CA2C9}|Projet.Entities\\Projet.Entities.csproj|c:\\users\\makij\\source\\repos\\architecture-n-tiers-origin\\architecture-n-tiers\\projet.entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2B1AD55-A71C-477B-99DA-B7AD9D6CA2C9}|Projet.Entities\\Projet.Entities.csproj|solutionrelative:projet.entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD631404-ECCA-46C2-9FB5-27A9B511E199}|Projet.Enums\\Projet.Enums.csproj|c:\\users\\makij\\source\\repos\\architecture-n-tiers-origin\\architecture-n-tiers\\projet.enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD631404-ECCA-46C2-9FB5-27A9B511E199}|Projet.Enums\\Projet.Enums.csproj|solutionrelative:projet.enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDB527DF-17B9-48D7-B2F2-E901C9049F30}|Test\\Pharmacy.test.csproj|c:\\users\\makij\\source\\repos\\architecture-n-tiers-origin\\architecture-n-tiers\\test\\order\\orderblltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDB527DF-17B9-48D7-B2F2-E901C9049F30}|Test\\Pharmacy.test.csproj|solutionrelative:test\\order\\orderblltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDB527DF-17B9-48D7-B2F2-E901C9049F30}|Test\\Pharmacy.test.csproj|c:\\users\\makij\\source\\repos\\architecture-n-tiers-origin\\architecture-n-tiers\\test\\products\\producttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDB527DF-17B9-48D7-B2F2-E901C9049F30}|Test\\Pharmacy.test.csproj|solutionrelative:test\\products\\producttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE8F21DB-79F4-4F6E-AA82-99E8E853F5C3}|Projet.Services\\Projet.Services.csproj|c:\\users\\makij\\source\\repos\\architecture-n-tiers-origin\\architecture-n-tiers\\projet.services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE8F21DB-79F4-4F6E-AA82-99E8E853F5C3}|Projet.Services\\Projet.Services.csproj|solutionrelative:projet.services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE8F21DB-79F4-4F6E-AA82-99E8E853F5C3}|Projet.Services\\Projet.Services.csproj|c:\\users\\makij\\source\\repos\\architecture-n-tiers-origin\\architecture-n-tiers\\projet.services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE8F21DB-79F4-4F6E-AA82-99E8E853F5C3}|Projet.Services\\Projet.Services.csproj|solutionrelative:projet.services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE8F21DB-79F4-4F6E-AA82-99E8E853F5C3}|Projet.Services\\Projet.Services.csproj|c:\\users\\makij\\source\\repos\\architecture-n-tiers-origin\\architecture-n-tiers\\projet.services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE8F21DB-79F4-4F6E-AA82-99E8E853F5C3}|Projet.Services\\Projet.Services.csproj|solutionrelative:projet.services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AADF299-A36D-459A-86F3-00ADC08C8BC7}|API\\API.csproj|c:\\users\\makij\\source\\repos\\architecture-n-tiers-origin\\architecture-n-tiers\\api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AADF299-A36D-459A-86F3-00ADC08C8BC7}|API\\API.csproj|solutionrelative:api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AADF299-A36D-459A-86F3-00ADC08C8BC7}|API\\API.csproj|c:\\users\\makij\\source\\repos\\architecture-n-tiers-origin\\architecture-n-tiers\\api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AADF299-A36D-459A-86F3-00ADC08C8BC7}|API\\API.csproj|solutionrelative:api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE8F21DB-79F4-4F6E-AA82-99E8E853F5C3}|Projet.Services\\Projet.Services.csproj|c:\\users\\makij\\source\\repos\\architecture-n-tiers-origin\\architecture-n-tiers\\projet.services\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE8F21DB-79F4-4F6E-AA82-99E8E853F5C3}|Projet.Services\\Projet.Services.csproj|solutionrelative:projet.services\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AADF299-A36D-459A-86F3-00ADC08C8BC7}|API\\API.csproj|c:\\users\\makij\\source\\repos\\architecture-n-tiers-origin\\architecture-n-tiers\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3AADF299-A36D-459A-86F3-00ADC08C8BC7}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84E842C6-70DD-47B8-A148-A52B60D27853}|Projet.DAL.Contracts\\Projet.DAL.Contracts.csproj|c:\\users\\makij\\source\\repos\\architecture-n-tiers-origin\\architecture-n-tiers\\projet.dal.contracts\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84E842C6-70DD-47B8-A148-A52B60D27853}|Projet.DAL.Contracts\\Projet.DAL.Contracts.csproj|solutionrelative:projet.dal.contracts\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84E842C6-70DD-47B8-A148-A52B60D27853}|Projet.DAL.Contracts\\Projet.DAL.Contracts.csproj|c:\\users\\makij\\source\\repos\\architecture-n-tiers-origin\\architecture-n-tiers\\projet.dal.contracts\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84E842C6-70DD-47B8-A148-A52B60D27853}|Projet.DAL.Contracts\\Projet.DAL.Contracts.csproj|solutionrelative:projet.dal.contracts\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBAE4869-3562-430C-A061-3AEF783A9789}|Projet.DAL\\Projet.DAL.csproj|c:\\users\\makij\\source\\repos\\architecture-n-tiers-origin\\architecture-n-tiers\\projet.dal\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBAE4869-3562-430C-A061-3AEF783A9789}|Projet.DAL\\Projet.DAL.csproj|solutionrelative:projet.dal\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBAE4869-3562-430C-A061-3AEF783A9789}|Projet.DAL\\Projet.DAL.csproj|c:\\users\\makij\\source\\repos\\architecture-n-tiers-origin\\architecture-n-tiers\\projet.dal\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBAE4869-3562-430C-A061-3AEF783A9789}|Projet.DAL\\Projet.DAL.csproj|solutionrelative:projet.dal\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBAE4869-3562-430C-A061-3AEF783A9789}|Projet.DAL\\Projet.DAL.csproj|c:\\users\\makij\\source\\repos\\architecture-n-tiers-origin\\architecture-n-tiers\\projet.dal\\repos\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBAE4869-3562-430C-A061-3AEF783A9789}|Projet.DAL\\Projet.DAL.csproj|solutionrelative:projet.dal\\repos\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBAE4869-3562-430C-A061-3AEF783A9789}|Projet.DAL\\Projet.DAL.csproj|c:\\users\\makij\\source\\repos\\architecture-n-tiers-origin\\architecture-n-tiers\\projet.dal\\repos\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBAE4869-3562-430C-A061-3AEF783A9789}|Projet.DAL\\Projet.DAL.csproj|solutionrelative:projet.dal\\repos\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE7C924A-B2C2-4B87-945A-44A8A0BB5675}|Projet.Context\\Projet.Context.csproj|c:\\users\\makij\\source\\repos\\architecture-n-tiers-origin\\architecture-n-tiers\\projet.context\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE7C924A-B2C2-4B87-945A-44A8A0BB5675}|Projet.Context\\Projet.Context.csproj|solutionrelative:projet.context\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD631404-ECCA-46C2-9FB5-27A9B511E199}|Projet.Enums\\Projet.Enums.csproj|c:\\users\\makij\\source\\repos\\architecture-n-tiers-origin\\architecture-n-tiers\\projet.enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD631404-ECCA-46C2-9FB5-27A9B511E199}|Projet.Enums\\Projet.Enums.csproj|solutionrelative:projet.enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B1AD55-A71C-477B-99DA-B7AD9D6CA2C9}|Projet.Entities\\Projet.Entities.csproj|c:\\users\\makij\\source\\repos\\architecture-n-tiers-origin\\architecture-n-tiers\\projet.entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2B1AD55-A71C-477B-99DA-B7AD9D6CA2C9}|Projet.Entities\\Projet.Entities.csproj|solutionrelative:projet.entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B1AD55-A71C-477B-99DA-B7AD9D6CA2C9}|Projet.Entities\\Projet.Entities.csproj|c:\\users\\makij\\source\\repos\\architecture-n-tiers-origin\\architecture-n-tiers\\projet.entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2B1AD55-A71C-477B-99DA-B7AD9D6CA2C9}|Projet.Entities\\Projet.Entities.csproj|solutionrelative:projet.entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B1AD55-A71C-477B-99DA-B7AD9D6CA2C9}|Projet.Entities\\Projet.Entities.csproj|c:\\users\\makij\\source\\repos\\architecture-n-tiers-origin\\architecture-n-tiers\\projet.entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2B1AD55-A71C-477B-99DA-B7AD9D6CA2C9}|Projet.Entities\\Projet.Entities.csproj|solutionrelative:projet.entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B1AD55-A71C-477B-99DA-B7AD9D6CA2C9}|Projet.Entities\\Projet.Entities.csproj|c:\\users\\makij\\source\\repos\\architecture-n-tiers-origin\\architecture-n-tiers\\projet.entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2B1AD55-A71C-477B-99DA-B7AD9D6CA2C9}|Projet.Entities\\Projet.Entities.csproj|solutionrelative:projet.entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AADF299-A36D-459A-86F3-00ADC08C8BC7}|API\\API.csproj|c:\\users\\makij\\source\\repos\\architecture-n-tiers-origin\\architecture-n-tiers\\api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3AADF299-A36D-459A-86F3-00ADC08C8BC7}|API\\API.csproj|solutionrelative:api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AADF299-A36D-459A-86F3-00ADC08C8BC7}|API\\API.csproj|c:\\users\\makij\\source\\repos\\architecture-n-tiers-origin\\architecture-n-tiers\\api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AADF299-A36D-459A-86F3-00ADC08C8BC7}|API\\API.csproj|solutionrelative:api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23EBABDC-F763-4BBF-9C5A-9192BC1A8016}|Projet.Logs\\Projet.Logs.csproj|c:\\users\\makij\\source\\repos\\architecture-n-tiers-origin\\architecture-n-tiers\\projet.logs\\projet.logs.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{23EBABDC-F763-4BBF-9C5A-9192BC1A8016}|Projet.Logs\\Projet.Logs.csproj|solutionrelative:projet.logs\\projet.logs.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AADF299-A36D-459A-86F3-00ADC08C8BC7}|API\\API.csproj|c:\\users\\makij\\source\\repos\\architecture-n-tiers-origin\\architecture-n-tiers\\api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AADF299-A36D-459A-86F3-00ADC08C8BC7}|API\\API.csproj|solutionrelative:api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDB527DF-17B9-48D7-B2F2-E901C9049F30}|Test\\Pharmacy.test.csproj|c:\\users\\makij\\source\\repos\\architecture-n-tiers-origin\\architecture-n-tiers\\test\\pharmacy.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BDB527DF-17B9-48D7-B2F2-E901C9049F30}|Test\\Pharmacy.test.csproj|solutionrelative:test\\pharmacy.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE8F21DB-79F4-4F6E-AA82-99E8E853F5C3}|Projet.Services\\Projet.Services.csproj|c:\\users\\makij\\source\\repos\\architecture-n-tiers-origin\\architecture-n-tiers\\projet.services\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE8F21DB-79F4-4F6E-AA82-99E8E853F5C3}|Projet.Services\\Projet.Services.csproj|solutionrelative:projet.services\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F972C2A-D057-494F-91EE-07510BFF95A2}|Projet.ViewModel\\Projet.ViewModel.csproj|c:\\users\\makij\\source\\repos\\architecture-n-tiers-origin\\architecture-n-tiers\\projet.viewmodel\\dtos\\auth\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F972C2A-D057-494F-91EE-07510BFF95A2}|Projet.ViewModel\\Projet.ViewModel.csproj|solutionrelative:projet.viewmodel\\dtos\\auth\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F972C2A-D057-494F-91EE-07510BFF95A2}|Projet.ViewModel\\Projet.ViewModel.csproj|c:\\users\\makij\\source\\repos\\architecture-n-tiers-origin\\architecture-n-tiers\\projet.viewmodel\\dtos\\auth\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F972C2A-D057-494F-91EE-07510BFF95A2}|Projet.ViewModel\\Projet.ViewModel.csproj|solutionrelative:projet.viewmodel\\dtos\\auth\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F972C2A-D057-494F-91EE-07510BFF95A2}|Projet.ViewModel\\Projet.ViewModel.csproj|c:\\users\\makij\\source\\repos\\architecture-n-tiers-origin\\architecture-n-tiers\\projet.viewmodel\\dtos\\auth\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F972C2A-D057-494F-91EE-07510BFF95A2}|Projet.ViewModel\\Projet.ViewModel.csproj|solutionrelative:projet.viewmodel\\dtos\\auth\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE8F21DB-79F4-4F6E-AA82-99E8E853F5C3}|Projet.Services\\Projet.Services.csproj|c:\\users\\makij\\source\\repos\\architecture-n-tiers-origin\\architecture-n-tiers\\projet.services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE8F21DB-79F4-4F6E-AA82-99E8E853F5C3}|Projet.Services\\Projet.Services.csproj|solutionrelative:projet.services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F875F8-DEFA-41D0-977E-B75ABF304846}|Projet.BLL.Contract\\Projet.BLL.Contract.csproj|c:\\users\\makij\\source\\repos\\architecture-n-tiers-origin\\architecture-n-tiers\\projet.bll.contract\\iorderbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F875F8-DEFA-41D0-977E-B75ABF304846}|Projet.BLL.Contract\\Projet.BLL.Contract.csproj|solutionrelative:projet.bll.contract\\iorderbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F875F8-DEFA-41D0-977E-B75ABF304846}|Projet.BLL.Contract\\Projet.BLL.Contract.csproj|c:\\users\\makij\\source\\repos\\architecture-n-tiers-origin\\architecture-n-tiers\\projet.bll.contract\\igenericbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F875F8-DEFA-41D0-977E-B75ABF304846}|Projet.BLL.Contract\\Projet.BLL.Contract.csproj|solutionrelative:projet.bll.contract\\igenericbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F972C2A-D057-494F-91EE-07510BFF95A2}|Projet.ViewModel\\Projet.ViewModel.csproj|c:\\users\\makij\\source\\repos\\architecture-n-tiers-origin\\architecture-n-tiers\\projet.viewmodel\\dtos\\order\\ordercreaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F972C2A-D057-494F-91EE-07510BFF95A2}|Projet.ViewModel\\Projet.ViewModel.csproj|solutionrelative:projet.viewmodel\\dtos\\order\\ordercreaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F972C2A-D057-494F-91EE-07510BFF95A2}|Projet.ViewModel\\Projet.ViewModel.csproj|c:\\users\\makij\\source\\repos\\architecture-n-tiers-origin\\architecture-n-tiers\\projet.viewmodel\\dtos\\order\\orderitemrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F972C2A-D057-494F-91EE-07510BFF95A2}|Projet.ViewModel\\Projet.ViewModel.csproj|solutionrelative:projet.viewmodel\\dtos\\order\\orderitemrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F972C2A-D057-494F-91EE-07510BFF95A2}|Projet.ViewModel\\Projet.ViewModel.csproj|c:\\users\\makij\\source\\repos\\architecture-n-tiers-origin\\architecture-n-tiers\\projet.viewmodel\\dtos\\product\\productcreaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F972C2A-D057-494F-91EE-07510BFF95A2}|Projet.ViewModel\\Projet.ViewModel.csproj|solutionrelative:projet.viewmodel\\dtos\\product\\productcreaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F972C2A-D057-494F-91EE-07510BFF95A2}|Projet.ViewModel\\Projet.ViewModel.csproj|c:\\users\\makij\\source\\repos\\architecture-n-tiers-origin\\architecture-n-tiers\\projet.viewmodel\\projet.viewmodel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1F972C2A-D057-494F-91EE-07510BFF95A2}|Projet.ViewModel\\Projet.ViewModel.csproj|solutionrelative:projet.viewmodel\\projet.viewmodel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F972C2A-D057-494F-91EE-07510BFF95A2}|Projet.ViewModel\\Projet.ViewModel.csproj|c:\\users\\makij\\source\\repos\\architecture-n-tiers-origin\\architecture-n-tiers\\projet.viewmodel\\dtos\\order\\orderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F972C2A-D057-494F-91EE-07510BFF95A2}|Projet.ViewModel\\Projet.ViewModel.csproj|solutionrelative:projet.viewmodel\\dtos\\order\\orderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F972C2A-D057-494F-91EE-07510BFF95A2}|Projet.ViewModel\\Projet.ViewModel.csproj|c:\\users\\makij\\source\\repos\\architecture-n-tiers-origin\\architecture-n-tiers\\projet.viewmodel\\dtos\\product\\productresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F972C2A-D057-494F-91EE-07510BFF95A2}|Projet.ViewModel\\Projet.ViewModel.csproj|solutionrelative:projet.viewmodel\\dtos\\product\\productresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AADF299-A36D-459A-86F3-00ADC08C8BC7}|API\\API.csproj|c:\\users\\makij\\source\\repos\\architecture-n-tiers-origin\\architecture-n-tiers\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3AADF299-A36D-459A-86F3-00ADC08C8BC7}|API\\API.csproj|solutionrelative:api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBAE4869-3562-430C-A061-3AEF783A9789}|Projet.DAL\\Projet.DAL.csproj|c:\\users\\makij\\source\\repos\\architecture-n-tiers-origin\\architecture-n-tiers\\projet.dal\\projet.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EBAE4869-3562-430C-A061-3AEF783A9789}|Projet.DAL\\Projet.DAL.csproj|solutionrelative:projet.dal\\projet.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84E842C6-70DD-47B8-A148-A52B60D27853}|Projet.DAL.Contracts\\Projet.DAL.Contracts.csproj|c:\\users\\makij\\source\\repos\\architecture-n-tiers-origin\\architecture-n-tiers\\projet.dal.contracts\\projet.dal.contracts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{84E842C6-70DD-47B8-A148-A52B60D27853}|Projet.DAL.Contracts\\Projet.DAL.Contracts.csproj|solutionrelative:projet.dal.contracts\\projet.dal.contracts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE7C924A-B2C2-4B87-945A-44A8A0BB5675}|Projet.Context\\Projet.Context.csproj|c:\\users\\makij\\source\\repos\\architecture-n-tiers-origin\\architecture-n-tiers\\projet.context\\projet.context.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DE7C924A-B2C2-4B87-945A-44A8A0BB5675}|Projet.Context\\Projet.Context.csproj|solutionrelative:projet.context\\projet.context.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD631404-ECCA-46C2-9FB5-27A9B511E199}|Projet.Enums\\Projet.Enums.csproj|c:\\users\\makij\\source\\repos\\architecture-n-tiers-origin\\architecture-n-tiers\\projet.enums\\projet.enums.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CD631404-ECCA-46C2-9FB5-27A9B511E199}|Projet.Enums\\Projet.Enums.csproj|solutionrelative:projet.enums\\projet.enums.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F875F8-DEFA-41D0-977E-B75ABF304846}|Projet.BLL.Contract\\Projet.BLL.Contract.csproj|c:\\users\\makij\\source\\repos\\architecture-n-tiers-origin\\architecture-n-tiers\\projet.bll.contract\\projet.bll.contract.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{84F875F8-DEFA-41D0-977E-B75ABF304846}|Projet.BLL.Contract\\Projet.BLL.Contract.csproj|solutionrelative:projet.bll.contract\\projet.bll.contract.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B1AD55-A71C-477B-99DA-B7AD9D6CA2C9}|Projet.Entities\\Projet.Entities.csproj|c:\\users\\makij\\source\\repos\\architecture-n-tiers-origin\\architecture-n-tiers\\projet.entities\\projet.entities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E2B1AD55-A71C-477B-99DA-B7AD9D6CA2C9}|Projet.Entities\\Projet.Entities.csproj|solutionrelative:projet.entities\\projet.entities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0969DC51-6457-4474-97CF-00F72696F339}|Projet.BLL\\Projet.BLL.csproj|c:\\users\\makij\\source\\repos\\architecture-n-tiers-origin\\architecture-n-tiers\\projet.bll\\projet.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0969DC51-6457-4474-97CF-00F72696F339}|Projet.BLL\\Projet.BLL.csproj|solutionrelative:projet.bll\\projet.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\10.0.101\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AADF299-A36D-459A-86F3-00ADC08C8BC7}|API\\API.csproj|c:\\users\\makij\\source\\repos\\architecture-n-tiers-origin\\architecture-n-tiers\\api\\migrations\\20260103114044_v5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AADF299-A36D-459A-86F3-00ADC08C8BC7}|API\\API.csproj|solutionrelative:api\\migrations\\20260103114044_v5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AADF299-A36D-459A-86F3-00ADC08C8BC7}|API\\API.csproj|c:\\users\\makij\\source\\repos\\architecture-n-tiers-origin\\architecture-n-tiers\\api\\migrations\\20260103114044_v5.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AADF299-A36D-459A-86F3-00ADC08C8BC7}|API\\API.csproj|solutionrelative:api\\migrations\\20260103114044_v5.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\makij\\AppData\\Local\\Temp\\tmp8C0B.tmp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AADF299-A36D-459A-86F3-00ADC08C8BC7}|API\\API.csproj|c:\\users\\makij\\source\\repos\\architecture-n-tiers-origin\\architecture-n-tiers\\api\\api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{3AADF299-A36D-459A-86F3-00ADC08C8BC7}|API\\API.csproj|solutionrelative:api\\api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AADF299-A36D-459A-86F3-00ADC08C8BC7}|API\\API.csproj|c:\\users\\makij\\source\\repos\\architecture-n-tiers-origin\\architecture-n-tiers\\api\\migrations\\20260103145717_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AADF299-A36D-459A-86F3-00ADC08C8BC7}|API\\API.csproj|solutionrelative:api\\migrations\\20260103145717_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 138,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderBLLTests.cs",
+              "DocumentMoniker": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Test\\Order\\OrderBLLTests.cs",
+              "RelativeDocumentMoniker": "Test\\Order\\OrderBLLTests.cs",
+              "ToolTip": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Test\\Order\\OrderBLLTests.cs",
+              "RelativeToolTip": "Test\\Order\\OrderBLLTests.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAuwA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T21:47:07.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductTest.cs",
+              "DocumentMoniker": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Test\\Products\\ProductTest.cs",
+              "RelativeDocumentMoniker": "Test\\Products\\ProductTest.cs",
+              "ToolTip": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Test\\Products\\ProductTest.cs",
+              "RelativeToolTip": "Test\\Products\\ProductTest.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAIBJwCkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T22:29:59.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.Enums\\UserRole.cs",
+              "RelativeDocumentMoniker": "Projet.Enums\\UserRole.cs",
+              "ToolTip": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.Enums\\UserRole.cs",
+              "RelativeToolTip": "Projet.Enums\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T13:13:58.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAQwHIAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T18:50:39.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderBLL.cs",
+              "DocumentMoniker": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.BLL\\OrderBLL.cs",
+              "RelativeDocumentMoniker": "Projet.BLL\\OrderBLL.cs",
+              "ToolTip": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.BLL\\OrderBLL.cs",
+              "RelativeToolTip": "Projet.BLL\\OrderBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T14:02:34.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GenericBLL.cs",
+              "DocumentMoniker": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.BLL\\GenericBLL.cs",
+              "RelativeDocumentMoniker": "Projet.BLL\\GenericBLL.cs",
+              "ToolTip": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.BLL\\GenericBLL.cs",
+              "RelativeToolTip": "Projet.BLL\\GenericBLL.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA4AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T13:42:47.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Projet.Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.Services\\UserService.cs",
+              "RelativeToolTip": "Projet.Services\\UserService.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwBgAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T13:51:44.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.Entities\\User.cs",
+              "RelativeDocumentMoniker": "Projet.Entities\\User.cs",
+              "ToolTip": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.Entities\\User.cs",
+              "RelativeToolTip": "Projet.Entities\\User.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowAsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T08:59:23.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Projet.Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.Services\\ProductService.cs",
+              "RelativeToolTip": "Projet.Services\\ProductService.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAIBJwCIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T13:54:46.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\API\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\API\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "API\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAwwDMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T14:34:53.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "Projet.Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.Services\\OrderService.cs",
+              "RelativeToolTip": "Projet.Services\\OrderService.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAIBJwDsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T13:56:35.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAABBwAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T21:42:59.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.Services\\Interfaces\\IOrderService.cs",
+              "RelativeDocumentMoniker": "Projet.Services\\Interfaces\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.Services\\Interfaces\\IOrderService.cs",
+              "RelativeToolTip": "Projet.Services\\Interfaces\\IOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T13:56:02.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\API\\appsettings.json",
+              "RelativeDocumentMoniker": "API\\appsettings.json",
+              "ToolTip": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\API\\appsettings.json",
+              "RelativeToolTip": "API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-03T10:27:01.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.DAL.Contracts\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Projet.DAL.Contracts\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.DAL.Contracts\\IUnitOfWork.cs",
+              "RelativeToolTip": "Projet.DAL.Contracts\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T13:35:49.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.DAL.Contracts\\IRepository.cs",
+              "RelativeDocumentMoniker": "Projet.DAL.Contracts\\IRepository.cs",
+              "ToolTip": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.DAL.Contracts\\IRepository.cs",
+              "RelativeToolTip": "Projet.DAL.Contracts\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T13:34:50.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.DAL\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Projet.DAL\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.DAL\\UnitOfWork.cs",
+              "RelativeToolTip": "Projet.DAL\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T13:41:06.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.DAL\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Projet.DAL\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.DAL\\GenericRepository.cs",
+              "RelativeToolTip": "Projet.DAL\\GenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAABBwCEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T13:40:24.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.DAL\\Repos\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Projet.DAL\\Repos\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.DAL\\Repos\\UserRepository.cs",
+              "RelativeToolTip": "Projet.DAL\\Repos\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T13:44:49.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ClientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.DAL\\Repos\\ClientRepository.cs",
+              "RelativeDocumentMoniker": "Projet.DAL\\Repos\\ClientRepository.cs",
+              "ToolTip": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.DAL\\Repos\\ClientRepository.cs",
+              "RelativeToolTip": "Projet.DAL\\Repos\\ClientRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T15:03:54.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.Context\\DataContext.cs",
+              "RelativeDocumentMoniker": "Projet.Context\\DataContext.cs",
+              "ToolTip": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.Context\\DataContext.cs",
+              "RelativeToolTip": "Projet.Context\\DataContext.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAEBTwA8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T13:33:27.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.Enums\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "Projet.Enums\\OrderStatus.cs",
+              "ToolTip": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.Enums\\OrderStatus.cs",
+              "RelativeToolTip": "Projet.Enums\\OrderStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T13:14:33.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Projet.Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.Entities\\Product.cs",
+              "RelativeToolTip": "Projet.Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAABQwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T13:21:08.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.Entities\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Projet.Entities\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.Entities\\OrderItem.cs",
+              "RelativeToolTip": "Projet.Entities\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T13:27:05.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.Entities\\Order.cs",
+              "RelativeDocumentMoniker": "Projet.Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.Entities\\Order.cs",
+              "RelativeToolTip": "Projet.Entities\\Order.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAsAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T13:21:50.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.Entities\\Client.cs",
+              "RelativeDocumentMoniker": "Projet.Entities\\Client.cs",
+              "ToolTip": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.Entities\\Client.cs",
+              "RelativeToolTip": "Projet.Entities\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T20:48:01.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-03T11:22:39.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "API\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T14:43:58.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Projet.Logs.csproj",
+              "DocumentMoniker": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.Logs\\Projet.Logs.csproj",
+              "RelativeDocumentMoniker": "Projet.Logs\\Projet.Logs.csproj",
+              "ToolTip": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.Logs\\Projet.Logs.csproj",
+              "RelativeToolTip": "Projet.Logs\\Projet.Logs.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-02T18:39:38.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\API\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\API\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "API\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T14:34:26.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.Services\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "Projet.Services\\Interfaces\\IProductService.cs",
+              "ToolTip": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.Services\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "Projet.Services\\Interfaces\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T13:53:58.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.ViewModel\\DTOs\\Auth\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "Projet.ViewModel\\DTOs\\Auth\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.ViewModel\\DTOs\\Auth\\LoginRequest.cs",
+              "RelativeToolTip": "Projet.ViewModel\\DTOs\\Auth\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T21:43:55.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Pharmacy.test.csproj",
+              "DocumentMoniker": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Test\\Pharmacy.test.csproj",
+              "RelativeDocumentMoniker": "Test\\Pharmacy.test.csproj",
+              "ToolTip": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Test\\Pharmacy.test.csproj",
+              "RelativeToolTip": "Test\\Pharmacy.test.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-11T21:43:38.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.ViewModel\\DTOs\\Auth\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "Projet.ViewModel\\DTOs\\Auth\\RegisterRequest.cs",
+              "ToolTip": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.ViewModel\\DTOs\\Auth\\RegisterRequest.cs",
+              "RelativeToolTip": "Projet.ViewModel\\DTOs\\Auth\\RegisterRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T21:43:58.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AuthResponse.cs",
+              "DocumentMoniker": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.ViewModel\\DTOs\\Auth\\AuthResponse.cs",
+              "RelativeDocumentMoniker": "Projet.ViewModel\\DTOs\\Auth\\AuthResponse.cs",
+              "ToolTip": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.ViewModel\\DTOs\\Auth\\AuthResponse.cs",
+              "RelativeToolTip": "Projet.ViewModel\\DTOs\\Auth\\AuthResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T21:44:43.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.Services\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "Projet.Services\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.Services\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "Projet.Services\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T13:51:58.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IOrderBLL.cs",
+              "DocumentMoniker": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.BLL.Contract\\IOrderBLL.cs",
+              "RelativeDocumentMoniker": "Projet.BLL.Contract\\IOrderBLL.cs",
+              "ToolTip": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.BLL.Contract\\IOrderBLL.cs",
+              "RelativeToolTip": "Projet.BLL.Contract\\IOrderBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T14:01:53.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IGenericBLL.cs",
+              "DocumentMoniker": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.BLL.Contract\\IGenericBLL.cs",
+              "RelativeDocumentMoniker": "Projet.BLL.Contract\\IGenericBLL.cs",
+              "ToolTip": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.BLL.Contract\\IGenericBLL.cs",
+              "RelativeToolTip": "Projet.BLL.Contract\\IGenericBLL.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwvw0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T14:05:56.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "OrderItemRequest.cs",
+              "DocumentMoniker": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.ViewModel\\DTOs\\Order\\OrderItemRequest.cs",
+              "RelativeDocumentMoniker": "Projet.ViewModel\\DTOs\\Order\\OrderItemRequest.cs",
+              "ToolTip": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.ViewModel\\DTOs\\Order\\OrderItemRequest.cs",
+              "RelativeToolTip": "Projet.ViewModel\\DTOs\\Order\\OrderItemRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T21:45:15.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ProductCreateRequest.cs",
+              "DocumentMoniker": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.ViewModel\\DTOs\\Product\\ProductCreateRequest.cs",
+              "RelativeDocumentMoniker": "Projet.ViewModel\\DTOs\\Product\\ProductCreateRequest.cs",
+              "ToolTip": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.ViewModel\\DTOs\\Product\\ProductCreateRequest.cs",
+              "RelativeToolTip": "Projet.ViewModel\\DTOs\\Product\\ProductCreateRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T21:44:08.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "OrderCreateRequest.cs",
+              "DocumentMoniker": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.ViewModel\\DTOs\\Order\\OrderCreateRequest.cs",
+              "RelativeDocumentMoniker": "Projet.ViewModel\\DTOs\\Order\\OrderCreateRequest.cs",
+              "ToolTip": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.ViewModel\\DTOs\\Order\\OrderCreateRequest.cs",
+              "RelativeToolTip": "Projet.ViewModel\\DTOs\\Order\\OrderCreateRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T21:44:01.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Projet.ViewModel.csproj",
+              "DocumentMoniker": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.ViewModel\\Projet.ViewModel.csproj",
+              "RelativeDocumentMoniker": "Projet.ViewModel\\Projet.ViewModel.csproj",
+              "ToolTip": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.ViewModel\\Projet.ViewModel.csproj",
+              "RelativeToolTip": "Projet.ViewModel\\Projet.ViewModel.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-02T18:40:09.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "OrderResponse.cs",
+              "DocumentMoniker": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.ViewModel\\DTOs\\Order\\OrderResponse.cs",
+              "RelativeDocumentMoniker": "Projet.ViewModel\\DTOs\\Order\\OrderResponse.cs",
+              "ToolTip": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.ViewModel\\DTOs\\Order\\OrderResponse.cs",
+              "RelativeToolTip": "Projet.ViewModel\\DTOs\\Order\\OrderResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T21:45:29.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ProductResponse.cs",
+              "DocumentMoniker": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.ViewModel\\DTOs\\Product\\ProductResponse.cs",
+              "RelativeDocumentMoniker": "Projet.ViewModel\\DTOs\\Product\\ProductResponse.cs",
+              "ToolTip": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.ViewModel\\DTOs\\Product\\ProductResponse.cs",
+              "RelativeToolTip": "Projet.ViewModel\\DTOs\\Product\\ProductResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T21:45:00.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Projet.DAL.csproj",
+              "DocumentMoniker": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.DAL\\Projet.DAL.csproj",
+              "RelativeDocumentMoniker": "Projet.DAL\\Projet.DAL.csproj",
+              "ToolTip": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.DAL\\Projet.DAL.csproj",
+              "RelativeToolTip": "Projet.DAL\\Projet.DAL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-02T18:39:52.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Projet.DAL.Contracts.csproj",
+              "DocumentMoniker": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.DAL.Contracts\\Projet.DAL.Contracts.csproj",
+              "RelativeDocumentMoniker": "Projet.DAL.Contracts\\Projet.DAL.Contracts.csproj",
+              "ToolTip": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.DAL.Contracts\\Projet.DAL.Contracts.csproj",
+              "RelativeToolTip": "Projet.DAL.Contracts\\Projet.DAL.Contracts.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-02T18:39:56.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "API.csproj",
+              "DocumentMoniker": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\API\\API.csproj",
+              "RelativeDocumentMoniker": "API\\API.csproj",
+              "ToolTip": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\API\\API.csproj",
+              "RelativeToolTip": "API\\API.csproj",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAuwCcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-02T18:40:01.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Projet.Context.csproj",
+              "DocumentMoniker": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.Context\\Projet.Context.csproj",
+              "RelativeDocumentMoniker": "Projet.Context\\Projet.Context.csproj",
+              "ToolTip": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.Context\\Projet.Context.csproj",
+              "RelativeToolTip": "Projet.Context\\Projet.Context.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-02T18:39:43.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Projet.Enums.csproj",
+              "DocumentMoniker": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.Enums\\Projet.Enums.csproj",
+              "RelativeDocumentMoniker": "Projet.Enums\\Projet.Enums.csproj",
+              "ToolTip": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.Enums\\Projet.Enums.csproj",
+              "RelativeToolTip": "Projet.Enums\\Projet.Enums.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-02T18:39:08.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Projet.BLL.Contract.csproj",
+              "DocumentMoniker": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.BLL.Contract\\Projet.BLL.Contract.csproj",
+              "RelativeDocumentMoniker": "Projet.BLL.Contract\\Projet.BLL.Contract.csproj",
+              "ToolTip": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.BLL.Contract\\Projet.BLL.Contract.csproj",
+              "RelativeToolTip": "Projet.BLL.Contract\\Projet.BLL.Contract.csproj",
+              "ViewState": "AgIAABAAAAAAAAAAAEBlwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-02T18:38:57.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Projet.Entities.csproj",
+              "DocumentMoniker": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.Entities\\Projet.Entities.csproj",
+              "RelativeDocumentMoniker": "Projet.Entities\\Projet.Entities.csproj",
+              "ToolTip": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.Entities\\Projet.Entities.csproj",
+              "RelativeToolTip": "Projet.Entities\\Projet.Entities.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-02T18:39:03.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Projet.BLL.csproj",
+              "DocumentMoniker": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.BLL\\Projet.BLL.csproj",
+              "RelativeDocumentMoniker": "Projet.BLL\\Projet.BLL.csproj",
+              "ToolTip": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\Projet.BLL\\Projet.BLL.csproj",
+              "RelativeToolTip": "Projet.BLL\\Projet.BLL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-02T18:37:37.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Microsoft.PackageDependencyResolution.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\10.0.101\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\10.0.101\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\10.0.101\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\10.0.101\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ViewState": "AgIAANEAAAAAAAAAAAAewNQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-01-03T10:46:38.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "20260103114044_v5.cs",
+              "DocumentMoniker": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\API\\Migrations\\20260103114044_v5.cs",
+              "RelativeDocumentMoniker": "API\\Migrations\\20260103114044_v5.cs",
+              "ToolTip": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\API\\Migrations\\20260103114044_v5.cs",
+              "RelativeToolTip": "API\\Migrations\\20260103114044_v5.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwAQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T11:40:44.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "20260103114044_v5.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\API\\Migrations\\20260103114044_v5.Designer.cs",
+              "RelativeDocumentMoniker": "API\\Migrations\\20260103114044_v5.Designer.cs",
+              "ToolTip": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\API\\Migrations\\20260103114044_v5.Designer.cs",
+              "RelativeToolTip": "API\\Migrations\\20260103114044_v5.Designer.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T15:34:36.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "20260103145717_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\API\\Migrations\\20260103145717_InitialCreate.cs",
+              "RelativeDocumentMoniker": "API\\Migrations\\20260103145717_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\API\\Migrations\\20260103145717_InitialCreate.cs",
+              "RelativeToolTip": "API\\Migrations\\20260103145717_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T14:57:18.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "tmp8C0B.tmp.cs",
+              "DocumentMoniker": "C:\\Users\\makij\\AppData\\Local\\Temp\\tmp8C0B.tmp.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\tmp8C0B.tmp.cs",
+              "ToolTip": "C:\\Users\\makij\\AppData\\Local\\Temp\\tmp8C0B.tmp.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\tmp8C0B.tmp.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T11:08:15.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "API",
+              "DocumentMoniker": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\API\\API.csproj",
+              "RelativeDocumentMoniker": "API\\API.csproj",
+              "ToolTip": "C:\\Users\\makij\\source\\repos\\Architecture-N-Tiers-ORIGIN\\Architecture-N-Tiers\\API\\API.csproj",
+              "RelativeToolTip": "API\\API.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-03T10:45:15.657Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

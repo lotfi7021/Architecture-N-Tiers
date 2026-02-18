@@ -1,0 +1,12 @@
+C:\Users\makij\source\repos\Architecture-N-Tiers\Projet.Entities\bin\Debug\net10.0\Projet.Entities.deps.json
+C:\Users\makij\source\repos\Architecture-N-Tiers\Projet.Entities\bin\Debug\net10.0\Projet.Entities.dll
+C:\Users\makij\source\repos\Architecture-N-Tiers\Projet.Entities\bin\Debug\net10.0\Projet.Entities.pdb
+C:\Users\makij\source\repos\Architecture-N-Tiers\Projet.Entities\obj\Debug\net10.0\Projet.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\makij\source\repos\Architecture-N-Tiers\Projet.Entities\obj\Debug\net10.0\Projet.Entities.AssemblyInfoInputs.cache
+C:\Users\makij\source\repos\Architecture-N-Tiers\Projet.Entities\obj\Debug\net10.0\Projet.Entities.AssemblyInfo.cs
+C:\Users\makij\source\repos\Architecture-N-Tiers\Projet.Entities\obj\Debug\net10.0\Projet.Entities.csproj.CoreCompileInputs.cache
+C:\Users\makij\source\repos\Architecture-N-Tiers\Projet.Entities\obj\Debug\net10.0\Projet.Entities.sourcelink.json
+C:\Users\makij\source\repos\Architecture-N-Tiers\Projet.Entities\obj\Debug\net10.0\Projet.Entities.dll
+C:\Users\makij\source\repos\Architecture-N-Tiers\Projet.Entities\obj\Debug\net10.0\refint\Projet.Entities.dll
+C:\Users\makij\source\repos\Architecture-N-Tiers\Projet.Entities\obj\Debug\net10.0\Projet.Entities.pdb
+C:\Users\makij\source\repos\Architecture-N-Tiers\Projet.Entities\obj\Debug\net10.0\ref\Projet.Entities.dll

@@ -1,0 +1,12 @@
+C:\Users\makij\source\repos\Architecture-N-Tiers\Projet.Logs\bin\Debug\net10.0\Projet.Logs.deps.json
+C:\Users\makij\source\repos\Architecture-N-Tiers\Projet.Logs\bin\Debug\net10.0\Projet.Logs.dll
+C:\Users\makij\source\repos\Architecture-N-Tiers\Projet.Logs\bin\Debug\net10.0\Projet.Logs.pdb
+C:\Users\makij\source\repos\Architecture-N-Tiers\Projet.Logs\obj\Debug\net10.0\Projet.Logs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\makij\source\repos\Architecture-N-Tiers\Projet.Logs\obj\Debug\net10.0\Projet.Logs.AssemblyInfoInputs.cache
+C:\Users\makij\source\repos\Architecture-N-Tiers\Projet.Logs\obj\Debug\net10.0\Projet.Logs.AssemblyInfo.cs
+C:\Users\makij\source\repos\Architecture-N-Tiers\Projet.Logs\obj\Debug\net10.0\Projet.Logs.csproj.CoreCompileInputs.cache
+C:\Users\makij\source\repos\Architecture-N-Tiers\Projet.Logs\obj\Debug\net10.0\Projet.Logs.sourcelink.json
+C:\Users\makij\source\repos\Architecture-N-Tiers\Projet.Logs\obj\Debug\net10.0\Projet.Logs.dll
+C:\Users\makij\source\repos\Architecture-N-Tiers\Projet.Logs\obj\Debug\net10.0\refint\Projet.Logs.dll
+C:\Users\makij\source\repos\Architecture-N-Tiers\Projet.Logs\obj\Debug\net10.0\Projet.Logs.pdb
+C:\Users\makij\source\repos\Architecture-N-Tiers\Projet.Logs\obj\Debug\net10.0\ref\Projet.Logs.dll

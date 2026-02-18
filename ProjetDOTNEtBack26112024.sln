@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.4.33213.308
+# Visual Studio Version 18
+VisualStudioVersion = 18.3.11312.210
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Projet.BLL", "Projet.BLL", "{CD29FE0B-F8EB-49A1-813A-BBC520417D44}"
 EndProject
@@ -32,6 +32,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projet.ViewModel", "Projet.ViewModel\Projet.ViewModel.csproj", "{1F972C2A-D057-494F-91EE-07510BFF95A2}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API", "API\API.csproj", "{3AADF299-A36D-459A-86F3-00ADC08C8BC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pharmacy.test", "Test\Pharmacy.test.csproj", "{BDB527DF-17B9-48D7-B2F2-E901C9049F30}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -83,6 +85,10 @@ Global
 		{3AADF299-A36D-459A-86F3-00ADC08C8BC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3AADF299-A36D-459A-86F3-00ADC08C8BC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3AADF299-A36D-459A-86F3-00ADC08C8BC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDB527DF-17B9-48D7-B2F2-E901C9049F30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDB527DF-17B9-48D7-B2F2-E901C9049F30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDB527DF-17B9-48D7-B2F2-E901C9049F30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDB527DF-17B9-48D7-B2F2-E901C9049F30}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

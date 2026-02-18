@@ -1,4 +1,5 @@
-﻿using Projet.Entities;
+﻿using Microsoft.Extensions.Configuration;
+using Projet.Entities;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,6 +10,9 @@ namespace Projet.Services.Interfaces
 {
     public interface IUserService
     {
-        IEnumerable<User> GetUsers();
+        Task<User> RegisterAsync(User user);
+        Task<User?> LoginAsync(string username, string password);
+
+        public string GenerateJwtToken(User user, IConfiguration configuration);
     }
 }

@@ -1,27 +1,54 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
+using Projet.DTOs.Auth;
+using Projet.Entities;
 using Projet.Services.Interfaces;
 
-namespace API.Controllers
+namespace Projet.Service.API.Controllers
 {
-    [Route("api/[controller]")]
-    public class UserController : Controller
+    [ApiController]
+    [Route("api/users")]
+    public class UserController : ControllerBase
     {
-        IUserService _service;
-        public UserController(IUserService service)
+        private readonly IUserService _userService;
+
+        public UserController(IUserService userService)
         {
-            _service = service;
+            _userService = userService;
         }
 
-        [HttpGet]
-        [Route("GetUsers")]
-        public IActionResult GetUsers()
+        [HttpPost("register")]
+        [AllowAnonymous]
+        public async Task<IActionResult> Register(RegisterRequest request)
         {
-            var listUsers = _service.GetUsers();
-            if (listUsers != null)
+            var user = new User
             {
-                return new OkObjectResult(listUsers);
-            }
-            return NotFound();
+                Username = request.Username,
+                Email = request.Email,
+                PasswordHash = request.Password
+            };
+
+            var createdUser = await _userService.RegisterAsync(user);
+
+            return Ok(new
+            {
+                createdUser.Id,
+                createdUser.Username,
+                createdUser.Email,
+                createdUser.Role
+            });
+        }
+
+        [Authorize(Roles = "Client")]
+        [HttpGet("me")]
+        public IActionResult GetMyProfile()
+        {
+            return Ok(new
+            {
+                Id = User.FindFirst(System.Security.Claims.ClaimTypes.NameIdentifier)?.Value,
+                Username = User.Identity?.Name,
+                Role = User.FindFirst(System.Security.Claims.ClaimTypes.Role)?.Value
+            });
         }
     }
 }
